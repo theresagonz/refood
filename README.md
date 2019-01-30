@@ -1,10 +1,10 @@
-# Refood: Connecting extra food with hungry people
+# Refood: Finding a new home for excess usable food
 
 ## About
 
-Have food? Need food? Refood is a food exchange app that allows users to post offers of extra food they have that might otherwise go to waste. Other users can make requests to pick up the food.
+Have food? Need food? Refood is a food exchange app that allows users to post offers of extra food they have that would otherwise go to landfills. Other users can make requests to pick up the food.
 
-This Rails project was built in fulfillment of a Flatiron School online web developer program requirement.
+For successful pickups, each user can give a karma point to the other user by marking a transaction completed.
 
 ## Installation 
 
